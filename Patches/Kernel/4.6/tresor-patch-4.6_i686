@@ -6,9 +6,9 @@ index 0f9cb36..bcfecf1 100644
  VERSION = 4
  PATCHLEVEL = 6
  SUBLEVEL = 0
--EXTRAVERSION =
+-EXTRAVERSION = -rc1
 +EXTRAVERSION = -tresor0.3
- NAME = Charred Weasel
+ NAME = Blurry Fish Butt
  
  # *DOCUMENTATION*
 diff --git a/arch/x86/crypto/Makefile b/arch/x86/crypto/Makefile
